@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Víctor",
+      "empresa": "Celcia",
+      "email": "victormel2003@gmail.com",
+      "telefono": "3154271616",
+      "notas": "Requiere un nuevo servidor",
+      "id": 2
+    }
+  ]
+}
